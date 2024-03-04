@@ -1,4 +1,4 @@
-## Mohammad Omer Malikzada
+## Omer Malikzada
 **U.S. Citizen | Willing to Relocate**  
 [P.O. Box 55423 | Hayward, CA 94545](mailto:mmalikzada@outlook.com)
 [LinkedIn](linkedin.com/in/omer-m-16aa0a66)
