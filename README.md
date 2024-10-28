@@ -28,19 +28,15 @@ Experienced IT professional with five years of technical support experience, spe
 
 **IT Support Technician II, Child Care Resource Center, San Fernando**
 *Mar 2024 - Present*
+
 Managing technical support operations for two CCRC sites situated in San Bernardino and Victorville while providing comprehensive remote assistance to all CCRC employees via Bomgar and Zoom calls, addressing diverse technical issues including password resets, software installations, connectivity problems, performance optimization, hardware troubleshooting, configuration of Okta secure identity, Global Protect VPN, and Intune MDM. Consistently documenting interactions using the Freshservice ticketing system
 
 **Technical Lead, Gilead Sciences, Foster City, CA**  
 *January 2022 – July 2022*
-- Trained team members on available resources and tools.
-- Ensured proper rights and access for team members and conducted mandatory training for onboarding.
-- Mentored junior team members and facilitated knowledge sharing within the team.
-- Identified opportunities for process improvement and implemented best practices.
-- Facilitated seamless onboarding and offboarding of staff equipment.
-- Managed secure data erasure processes on desktop and laptop storage devices.
-- Maintained inventory of IT equipment and assets.
-- Responded to technical assignments both remotely and on-site.
-- Managed ticketing systems to track and resolve technical issues.
+
+Trained team members on available resources and tools, ensuring proper access and carried out mandatory onboarding training. Mentored junior team members, fostering knowledge sharing within the team. Identified process improvement opportunities and implemented best practices. Managed IT Concierge services for end-user devices, encompassing installation, configuration, testing, maintenance, monitoring, and troubleshooting of desktops and laptops (both Dell and Mac). Deployed Cisco AnyConnect VPN solutions for enhanced security and set up RSA SecureID on phones and laptops. Enrolled mobile devices in MDM Intune and conducted thorough re-imaging processes for loaner devices. Implemented Blancco Drive Eraser for data sanitation on desktops and laptops HDDs, SSDs, and NVMes. Managed laptop battery and memory module replacements to optimize device performance.
+
+Collaborated with IT team members to ensure efficient desktop computing operations. Coordinated provision of loaner computers and managed onboarding/off-boarding hardware processes. Maintained IT equipment inventory using Gilead Inventory System (GIS) and managed SPARC tickets for streamlined communication and documentation
 
 **L2 Service Technician, Genentech, South San Francisco, CA**  
 *August 2019 – December 2021*
