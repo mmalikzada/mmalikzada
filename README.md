@@ -26,6 +26,10 @@ Experienced IT professional with five years of technical support experience, spe
 
 ### PROFESSIONAL EXPERIENCE
 
+**IT Support Technician II, Child Care Resource Center, San Fernando**
+*Mar 2024 - Present*
+Managing technical support operations for two CCRC sites situated in San Bernardino and Victorville while providing comprehensive remote assistance to all CCRC employees via Bomgar and Zoom calls, addressing diverse technical issues including password resets, software installations, connectivity problems, performance optimization, hardware troubleshooting, configuration of Okta secure identity, Global Protect VPN, and Intune MDM. Consistently documenting interactions using the Freshservice ticketing system
+
 **Technical Lead, Gilead Sciences, Foster City, CA**  
 *January 2022 – July 2022*
 - Trained team members on available resources and tools.
