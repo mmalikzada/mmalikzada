@@ -14,6 +14,11 @@ Experienced IT professional with five years of technical support experience, spe
 **Hardware:** Cisco routers-switches, Dell, HP, Macs, iPads, tablets, desktops, laptops, printers, scanner, and numerous peripherals
 
 ### EDUCATION
+
+- **Master of Science, Information System and Technology**  
+  California State University, San Bernardino, CA  
+  *Expected: May 2026*  
+  
 - **Bachelor of Science, Information System and Technology**  
   California State University, San Bernardino, CA  
   *Expected: May 2024*  
@@ -60,7 +65,7 @@ Collaborated with IT team members to ensure efficient desktop computing operatio
 - Provided translations and advised coalition forces on linguistic and cultural matters.
 
 ### CERTIFICATION  
-*Anticipated May 2024*
+*Anticipated May 2025*
 - CompTIA A+
 - CompTIA Network+
 - CompTIA Security+
