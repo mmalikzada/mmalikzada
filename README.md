@@ -4,7 +4,7 @@
 [LinkedIn](linkedin.com/in/omer-m-16aa0a66)
 
 ### PROFESSIONAL SUMMARY
-Experienced IT professional with five years of technical support experience, specializing in networking tasks, security, and resolving complex technical hardware issues. Proven record of delivering outstanding customer service. Multilingual proficiency: Farsi, Pashto, and Urdu.
+Experienced IT professional with over 6 years of hands-on experience in IT support, network troubleshooting, and customer service. Passionate about cybersecurity, with a focus on secure identity management, data security, and network protection. Proficient in a wide range of IT systems and cloud services. Currently pursuing a master’s in information systems and technology (MSIST) with a Cybersecurity concentration. Multilingual with excellent communication skills for collaborating in diverse environments.
 
 ### TECHNICAL OVERVIEW
 **Application:** AD, VM products, SCCM, SNow, Remedy, G Suite, GCP, Zoom, Microsoft Remote Desktop, WebEx, Teams, SAP, Citrix, SEP, SharePoint, FireEye, CrashPlan, & Microsoft Hypervisor, Trello, MS Office  
@@ -12,6 +12,27 @@ Experienced IT professional with five years of technical support experience, spe
 **Networking:** LAN, WAN, TCP/IP, UDP, HTTP, SMTP, FTP, VPN, DNS, DHCP, RDP & VPN  
 **Platforms:** Microsoft Windows, Mac OS, Linux, VMware, SSO, MFA, MDM  
 **Hardware:** Cisco routers-switches, Dell, HP, Macs, iPads, tablets, desktops, laptops, printers, scanner, and numerous peripherals
+**System Administration**
+Active Directory (AD), Group Policy, SCCM, Microsoft Intune, Windows/Linux Server
+VMware, Hyper-V, PowerShell, Python (Automation Scripting) 
+
+**Operating Systems & Platforms**
+Windows 10/11, macOS, Linux (Ubuntu), iOS, Android 
+
+**Networking & Security**
+TCP/IP, DNS, DHCP, VLAN, VPN (Cisco AnyConnect, GlobalProtect)
+Firewalls (Palo Alto, Cisco ASA), Wireshark, Nmap
+Endpoint Protection (Symantec EP, FireEye), Patch Management 
+
+**Cloud & Identity Management**
+Microsoft Azure, Azure AD, Okta, MFA/SSO, Microsoft 365 Admin
+OneDrive, SharePoint, Google Workspace 
+
+**Support Tools & IT Infrastructure**
+ServiceNow, Jira, Freshservice, Remedy
+Zoom, Bomgar, Microsoft Teams
+Cisco Routers, Dell/HP Workstations, Printers, MDM (JAMF, MobileIron)
+Remote Access: RSA SecureID, Pulse Secure, VPN tunneling
 
 ### EDUCATION
 
@@ -20,7 +41,7 @@ Experienced IT professional with five years of technical support experience, spe
   *Expected: May 2026*  
   
 - **Bachelor of Science, Information System and Technology**  
-  California State University, San Bernardino, CA  
+  California State University, San Bernardino, CA                    in progress
   *Expected: May 2024*  
   Minor: Cybersecurity. GPA: 3.7
 
