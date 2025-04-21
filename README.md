@@ -7,11 +7,6 @@
 Experienced IT professional with over 6 years of hands-on experience in IT support, network troubleshooting, and customer service. Passionate about cybersecurity, with a focus on secure identity management, data security, and network protection. Proficient in a wide range of IT systems and cloud services. Currently pursuing a master’s in information systems and technology (MSIST) with a Cybersecurity concentration. Multilingual with excellent communication skills for collaborating in diverse environments.
 
 ### TECHNICAL OVERVIEW
-**Application:** AD, VM products, SCCM, SNow, Remedy, G Suite, GCP, Zoom, Microsoft Remote Desktop, WebEx, Teams, SAP, Citrix, SEP, SharePoint, FireEye, CrashPlan, & Microsoft Hypervisor, Trello, MS Office  
-**Languages:** SQL, Python, RStudio, HTML, PHP, PowerShell (basic)  
-**Networking:** LAN, WAN, TCP/IP, UDP, HTTP, SMTP, FTP, VPN, DNS, DHCP, RDP & VPN  
-**Platforms:** Microsoft Windows, Mac OS, Linux, VMware, SSO, MFA, MDM  
-**Hardware:** Cisco routers-switches, Dell, HP, Macs, iPads, tablets, desktops, laptops, printers, scanner, and numerous peripherals
 **System Administration**
 Active Directory (AD), Group Policy, SCCM, Microsoft Intune, Windows/Linux Server
 VMware, Hyper-V, PowerShell, Python (Automation Scripting) 
